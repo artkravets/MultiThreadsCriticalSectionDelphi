@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.044,=C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsAlina\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsv2\Project1.dproj=C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsv2\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.019,C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsAlina\Project1.dproj=C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsv2\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsv2\Unit3.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,=C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsv2\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.481,C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsv2\Unit2.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.717,C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsAlina\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,=C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsAlina\Unit1.dfm=C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsv2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.717,C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsAlina\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.249,C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsAlina\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsAlina\Unit1.pas=C:\Users\ArtKravets\Documents\Embarcadero\Studio\Projects\labthreadsv2\Unit1.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
